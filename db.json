@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "lila",
+      "image": "https://www.plants.com/images/157654mgp_20220623-1656010700465.webp",
+      "price": "23",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": 0,
+      "id": 10
     }
   ]
 }
